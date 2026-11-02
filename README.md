@@ -10,9 +10,9 @@
   <a href="mailto:josealena01@gmail.com"><img src="https://img.shields.io/badge/Email-josealena01%40gmail.com-2dd4bf?style=for-the-badge&labelColor=05060b" alt="Email" /></a>
 </p>
 
-Ingeniero de Sistemas y programador backend con más de **4 años** construyendo software y con **ownership completo** de sistemas en producción: arquitectura, modelado de datos, seguridad y despliegue.
+Ingeniero de Sistemas y programador backend con más de **5 años** construyendo software y con **ownership completo** de sistemas en producción: arquitectura, modelado de datos, seguridad y despliegue.
 
-<sub>Systems Engineer and backend developer with 4+ years building software and full ownership of production systems. Remote from Venezuela (UTC-4).</sub>
+<sub>Systems Engineer and backend developer with 5+ years building software and full ownership of production systems. Remote from Venezuela (UTC-4).</sub>
 
 ### `~$ whoami`
 
